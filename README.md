@@ -1,4 +1,4 @@
-# Todo App Telegram Bot v0.2.0
+# Todo App Telegram Bot v0.2.1
 
 ---
 
@@ -14,9 +14,9 @@ This bot can be deployed even on a phone using [Termux](https://github.com/termu
 
 ## Other to-do list apps:
 
-- [Desktop ToDo app](https://github.com/smartlegionlab/todo_app_desktop)
-- [Cli ToDo app](https://github.com/smartlegionlab/todo_app_cli)
-- [Web ToDo app](https://github.com/smartlegionlab/todo_app_web_django)
+- [Desktop ToDo app](https://github.com/smartlegionlab/smart-todo-app-desktop)
+- [Cli ToDo app](https://github.com/smartlegionlab/todo-app-cli)
+- [Web ToDo app](https://github.com/smartlegionlab/todo-app-django)
 
 ---
 

@@ -1,7 +1,7 @@
 # --------------------------------------------------------
 # Licensed under the terms of the BSD 3-Clause License
 # (see LICENSE for details).
-# Copyright © 2024, A.A. Suvorov
+# Copyright © 2024-2025, A.A. Suvorov
 # All rights reserved.
 # --------------------------------------------------------
 # https://github.com/smartlegionlab/
@@ -32,7 +32,7 @@ class TaskView:
             callback_data="show_tasks")
         )
         builder.row(types.InlineKeyboardButton(
-            text="🐱 GitHub", url="https://github.com/smartlegionlab/todo_app_tg_bot/")
+            text="🐱 GitHub", url="https://github.com/smartlegionlab/todo-app-tg-bot/")
         )
 
         msg = (f"{self.config.app_name}\n\n"
